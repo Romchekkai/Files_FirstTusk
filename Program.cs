@@ -66,11 +66,6 @@ class Program
         }
         else { Console.WriteLine("Directory doesn't exist"); }
 
-
-
-
-
-
     }
 }
 
